@@ -8,8 +8,8 @@ Talking about unleashing potential, you should all be very proud of the 10-minut
 
 Thank you all so much for participating, and all the amazing feedback on the stances, the playing cards, and the session.🫶
 
-The Trading Cards, Facilitation plan "Lite" and future developments can be found in the comments.
+The [Mode/Switch] Trading Cards, Facilitation plan "Lite" and future developments can be found in the comments.
 
 Leave some feedback while you're in there!🙏
 
-#sfcon #scrum
+[Mode/Switch]: https://github.com/starkmapper/developerstances
