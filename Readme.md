@@ -3,6 +3,11 @@
 It's hard enough to stay focused, that why I prefer writing in markdown...
 When something makes sense I tend to post it to [dev.to] and [LinkedIn].
 
+## TODO
+
+- [] Write stuff
+- [] Use [deploy-mkdocs](https://github.com/marketplace/actions/deploy-mkdocs) Github Action to auto-deploy from main branch
+- [] Enable tags
 
 [Mark Stapper's Blog] © 2025 by [Mark Stapper] is licensed under [CC BY-SA 4.0]![Icon: Creative Commons]![Icon: Attribution]![Icon: Share Alike]
 
