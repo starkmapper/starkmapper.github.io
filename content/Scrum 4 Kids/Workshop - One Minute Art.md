@@ -51,13 +51,29 @@ In this round participants are invited to experience a common challenge together
 
 ### Round 2: Concept - Goal, Rules and Steps
 
-In this round participants will be invited to explore:
-
-1. A common goal - What is it we're all trying to achieve together, how will we know we've reached it?
-1. A Minimal set of rules - What rules do we NEED to be able to progress towards that goal
-1. A single step toward that goal - the smallest possible step we could take in achieving the common goal
+In this round we'll introduce the concepts of common goals, minimal rules, and progressing towards your goals in small steps.
 
 ![We leverage the results of round 1 to drive home the need for improvement](images/Round%202%20-%20concept.jpg)
+
+1. Put up a new piece of large paper. We'll be using this one paper for the rest of the workshop.
+1. After inspecting the result of Round 1, it's time to introduce three requirements of working together:
+
+   1. A Common Goal - What is it we're all trying to achieve together, how will we know we've reached it? Use examples of outcome driven goals rather than output driver goals (i.e. "Make a drawing to remember a beautiful sunset on the beach" rather than "Draw the beach, the sea, and the sun setting above it.")
+   1. A Minimal set of rules - What rules do we NEED to be able to progress towards that goal.
+   1. A single step toward that goal - the smallest possible step we could take in achieving the common goal. Challenge participants to come up with outcome driver intermediate goals. (i.e. "A beach that reminds me of a bounty island" rather than "white sandy beach with palm trees").
+1. Defining the common goal for the workshop:
+   1. Find a person to be the beneficiary (teacher, manager, sponsor etc.). Make it clear to everyone that during this workshop, the beneficiary is an external customer commissioning work from their own money.
+   1. Interview your beneficiary about what they think is beautiful.
+   1. Have the participants ask clarifying questions. Limit this to 3-5 questions.
+   1. Write down some keywords on stickies or on the poster.
+1. Creating a minimal set of rules
+   1. Set one rule: Only the large paper will de judged by the beneficiary, and the beneficiary only. (See note below)
+   1. Ask participants to come up with 3 simple rules that will help them create a drawing with their group. Collect one per group. The minimal outcome should be to draw on stickies, and put them on the canvas when done. Depending on the level of the group you can ask some leading questions like:
+      * What can we do to involve everyone given the limited canvas size?
+      * How will we decide on things like what color stickies to use?
+      * When and how will we place stickies on the large paper?
+      * If we were to agree on one thing, what would it be?
+1. Crafting the first step together: Ask the beneficiary to describe what they might like to see after another 1 minute of drawing. (Intermediate Goal)
 
 ### Round 3: Exercise - Reaching your goal, finding out how along the way
 
@@ -72,6 +88,9 @@ The goal here is to practice:
 1. Bonus(?): Removing goals and/or agreements when they don't work out
 
 ![Creating rules and crafting goals together](images/Round%203%20-%20Instruction.jpg)
+
+1. Ask every group to contribute to the goal as best they can within the time limit of 1 minute.
+1. 
 
 ### Round 4: Connect - How do you make a beautiful drawing?
 
