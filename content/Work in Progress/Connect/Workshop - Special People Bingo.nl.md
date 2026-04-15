@@ -1,5 +1,7 @@
 # Bijzondere Goede Mensen - BINGO
 
+# TRANSLATION_REVIEW_NEEDED
+
 ## Een laagdrempelige verleiding tot bijzondere verbinding door diepgaande gesprekken
 
 ### Benodigdheden
