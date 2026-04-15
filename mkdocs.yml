@@ -38,7 +38,6 @@ plugins:
   - i18n:
       docs_structure: suffix
       fallback_to_default: true
-      default_language: en
       languages:
         - locale: en
           name: English
@@ -47,10 +46,9 @@ plugins:
         - locale: nl
           name: Nederlands
           build: true
-      nav_translations:
-        nl:
-          Home: Startpagina
-          Developer Stances: Developer Stances
-          Connect: Verbinden
-          Scrum 4 Kids: Scrum 4 Kids
-          "Work in Progress": "In Ontwikkeling"
+          nav_translations:
+            Home: Startpagina
+            Developer Stances: Developer Stances
+            Connect: Verbinden
+            Scrum 4 Kids: Scrum 4 Kids
+            "Work in Progress": "In Ontwikkeling"
