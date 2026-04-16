@@ -1,5 +1,6 @@
-# Special Good People - BINGO
-
+# Brilliant Bingo
+ ## needs to be re-translated from the dutch version!
+ 
 ## A low-threshold invitation to special connections through in-depth conversations
 
 ### Requirements
