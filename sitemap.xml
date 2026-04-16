@@ -1,39 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://starkmapper.github.io/</loc>
-         <lastmod>2025-07-18</lastmod>
+        <loc>https://starkmapper.github.io/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/"/>
     </url>
     <url>
-         <loc>https://starkmapper.github.io/links/</loc>
-         <lastmod>2025-07-18</lastmod>
+        <loc>https://starkmapper.github.io/links/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/links/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/links/"/>
     </url>
     <url>
-         <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Daily%20Scrum/</loc>
-         <lastmod>2025-07-18</lastmod>
+        <loc>https://starkmapper.github.io/Connect/Workshop%20-%20Brilliant%20Bingo/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Connect/Workshop%20-%20Brilliant%20Bingo/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Connect/Workshop%20-%20Brilliant%20Bingo/"/>
     </url>
     <url>
-         <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Planning/</loc>
-         <lastmod>2025-07-18</lastmod>
+        <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Daily%20Scrum/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Daily%20Scrum/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Daily%20Scrum/"/>
     </url>
     <url>
-         <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Retrospective/</loc>
-         <lastmod>2025-07-18</lastmod>
+        <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Planning/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Planning/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Planning/"/>
     </url>
     <url>
-         <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Review/</loc>
-         <lastmod>2025-07-18</lastmod>
+        <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Retrospective/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Retrospective/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Retrospective/"/>
     </url>
     <url>
-         <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint/</loc>
-         <lastmod>2025-07-18</lastmod>
+        <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Review/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Review/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Review/"/>
     </url>
     <url>
-         <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20stances%20at%20SFCon%202024/</loc>
-         <lastmod>2025-07-18</lastmod>
+        <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint/"/>
     </url>
     <url>
-         <loc>https://starkmapper.github.io/Scrum%204%20Kids/Workshop%20-%20One%20Minute%20Art/</loc>
-         <lastmod>2025-07-18</lastmod>
+        <loc>https://starkmapper.github.io/Developer%20Stances/Developer%20stances%20at%20SFCon%202024/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20stances%20at%20SFCon%202024/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20stances%20at%20SFCon%202024/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/Scrum%204%20Kids/Workshop%20-%20One%20Minute%20Art/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Scrum%204%20Kids/Workshop%20-%20One%20Minute%20Art/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Scrum%204%20Kids/Workshop%20-%20One%20Minute%20Art/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/Work%20in%20Progress/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Work%20in%20Progress/"/>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Work%20in%20Progress/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/links/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/links/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/links/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/Connect/Workshop%20-%20Brilliant%20Bingo/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Connect/Workshop%20-%20Brilliant%20Bingo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Connect/Workshop%20-%20Brilliant%20Bingo/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Daily%20Scrum/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Daily%20Scrum/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Daily%20Scrum/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Planning/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Planning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Planning/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Retrospective/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Retrospective/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Retrospective/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Review/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Review/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint%20Review/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20Behavior%20-%20Sprint/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20Behavior%20-%20Sprint/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/Developer%20Stances/Developer%20stances%20at%20SFCon%202024/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Developer%20Stances/Developer%20stances%20at%20SFCon%202024/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Developer%20Stances/Developer%20stances%20at%20SFCon%202024/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/Scrum%204%20Kids/Workshop%20-%20One%20Minute%20Art/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Scrum%204%20Kids/Workshop%20-%20One%20Minute%20Art/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Scrum%204%20Kids/Workshop%20-%20One%20Minute%20Art/"/>
+    </url>
+    <url>
+        <loc>https://starkmapper.github.io/nl/Work%20in%20Progress/</loc>
+        <lastmod>2026-04-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="nl" href="https://starkmapper.github.io/nl/Work%20in%20Progress/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://starkmapper.github.io/Work%20in%20Progress/"/>
     </url>
 </urlset>
