@@ -144,5 +144,6 @@ In this round we'll guide participants through connecting their takeaways to the
 
 ![Two drawings. Left: crude hearts and flowers scattered across the paper. Right: Multiple different scenes drawn on stickies and positioned across the paper.](images/End-result.jpg)
 
+<!-- markdownlint-disable-next-line MD053 -->
+[TRIZ]: https://www.liberatingstructures.com/6-making-space-with-triz/  
 [1-2-4-all]: https://www.liberatingstructures.com/1-1-2-4-all/
-[TRIZ]: https://www.liberatingstructures.com/6-making-space-with-triz/
