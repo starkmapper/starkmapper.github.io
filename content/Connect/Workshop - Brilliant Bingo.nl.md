@@ -107,7 +107,7 @@ Jullie gaan op zoek naar mensen die iets **bijzonders** hebben meegemaakt of kun
 
 ### **2. Uitleg van de Regels (2 minuten)**
 
-**Instrucie:**
+**Instructie:**
 
 1. Steek je hand omhoog als teken dat je vrij bent voor een gesprek.
 2. Zoek iemand anders met de hand omhoog.
@@ -115,6 +115,10 @@ Jullie gaan op zoek naar mensen die iets **bijzonders** hebben meegemaakt of kun
 4. Luister goed naar het antwoord. Als je iets hoort dat je bijzonder vindt, zeg dan: *'Wat bijzonder!'* en schrijf de naam van de ander in het vakje.
 5. Wissel van rol: de ander stelt jou nu een vraag.
 6. Bedank elkaar en zoek een nieuwe partner.
+7. Spreek af wanneer men BINGO heeft:
+    1. Enkele rij of kolom
+    2. Dubbele rij en/of kolom
+    3. Volle kaart
 
 **Afspraken:**
 
@@ -195,9 +199,9 @@ Deze template bingokaart is opgebouwd uit 4 items in 4 categorien. Deze categori
 
 !!! danger "Rondes"
 
-    1. Eerste BINGO Één rij of kolom vol
-    2. Dubbel BINGO Twee rijen of kolommen
-    3. Volledig kaart Alle 16 vakjes ingevuld
+    1. Eerste BINGO: Één rij of kolom vol
+    2. Dubbel BINGO: Twee rijen of kolommen
+    3. Volledig kaart: Alle 16 vakjes ingevuld
 
 !!! Tip Tips
 
