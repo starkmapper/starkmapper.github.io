@@ -1,3 +1,7 @@
+---
+original_language: nl
+translation_status: source
+---
 
 # Bijzondere BINGO!
 

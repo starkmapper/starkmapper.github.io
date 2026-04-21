@@ -25,12 +25,12 @@ markdown_extensions:
   - def_list
   - footnotes
   - tables
+  - meta
   - pymdownx.blocks.tab:
       alternate_style: true
   - pymdownx.blocks.admonition
   - toc:
       permalink: true
-
 
 plugins:
   - git-authors
