@@ -27,11 +27,13 @@ In the session I did with 26 children aged 5-7, we were able to do round 1-3 in 
 1. Hang a large paper on the wall
 2. Optional: Distribute drawing materials
 
-!!! Note
+/// Note
 
-    If you have multi-color drawing materials, you can enhance the learning experience by creating scarcity of colors.
-    Placing all materials in a central place will enable participants to pratice intra-group communication.
-    Placing one color on each table will enable participants to practice inter-group communication.
+If you have multi-color drawing materials, you can enhance the learning experience by creating scarcity of colors.
+Placing all materials in a central place will enable participants to pratice intra-group communication.
+Placing one color on each table will enable participants to practice inter-group communication.
+
+///
 
 ![Stickies buffet](images/Preparation%20-%20materials.jpg)
 
@@ -47,9 +49,10 @@ In this round participants are invited to experience a common challenge together
 1. After about 1 minute, instruct participants to stop drawing, and return to their groups. It's important that participants have enough time to experience the challenge, but not nearly enough to actually contribute. You'll know it's time to stop when participants are getting a bit frustrated.
 1. Debrief: Lightheartedly ask participants if they think the end-result is "beautiful". Next ask what the experience was like for them and what behavior they observed.
 
-!!! Note
+/// Note
 
-    Use a Liberating Structure like [1-2-4-all] if you have a very diverse audience.
+Use a Liberating Structure like [1-2-4-all] if you have a very diverse audience.
+///
 
 ![Inspecting the result of our efforts together](images/Round%201%20-%20inspecting%20results.jpg)
 
@@ -78,9 +81,11 @@ In this round we'll introduce the concepts of common goals, minimal rules, and p
         * If we were to agree on one thing, what would it be?
 1. Crafting the first step together: Ask the beneficiary to describe what they might like to see after another 1 minute of drawing. (Intermediate Goal)
 
-!!! note
+/// note
 
-    Keep this round as short and on-point as possible. The minimal result is a common goal and one improvement idea that can be validated in the next round. Participants will be tempted to have lenghty discussions about possible solutions and how they will work. The point is that we won't know untill we try, so start experimenting!
+Keep this round as short and on-point as possible. The minimal result is a common goal and one improvement idea that can be validated in the next round. Participants will be tempted to have lenghty discussions about possible solutions and how they will work. The point is that we won't know untill we try, so start experimenting!
+
+///
 
 ### Round 3: Exercise - Reaching your goal, finding out how along the way
 
@@ -110,9 +115,9 @@ Participants will practice:
     1. for intergroup collaboration
     1. for intra-group collaboration
 
-    !!! note
-
-        Timebox this to about 2 minutes, making it shorter if possible/needed depending on individual group size and as you progress through rounds.
+    /// note
+    Timebox this to about 2 minutes, making it shorter if possible/needed depending on individual group size and as you progress through rounds.
+    ///
 
 1. Invite groups to present their intergroup ideas. For every idea ask two questions:
     1. Does anybody else recognize this?
@@ -121,9 +126,11 @@ Participants will practice:
 1. Ask participants agree to one intra-group improvement idea to put into practice for the next round amongst themselves.
 1. Repeat as many times as you have time for.
 
-!!! note
+/// note
 
-    If you have time, you can deepen the learning experience by practicing creative destruction: Removing goals and/or agreements when they don't work out. Even in this constructed and safe environment this is an advanced topic that requires some finesse to navigate. You can use Liberating Structures like [TRIZ] to keep the conversation focused and constructive.
+If you have time, you can deepen the learning experience by practicing creative destruction: Removing goals and/or agreements when they don't work out. Even in this constructed and safe environment this is an advanced topic that requires some finesse to navigate. You can use Liberating Structures like [TRIZ] to keep the conversation focused and constructive.
+
+///
 
 ![The end result: a much more elaborate picture, happy teacher and happy children.](images/Round%204%20-%20End%20result.jpg)
 
@@ -138,12 +145,13 @@ In this round we'll guide participants through connecting their takeaways to the
 1. Invite participants to write their name on their action item, and post it on the "Individual" section.
 1. Thank everyone for their participation and close by gifting the large papers to the beneficiary.
 
-!!! note
+/// note
 
-    You can have people take a picture of their action item, and set is as their phone background so they'll be reminded tomorrow 😃.
+You can have people take a picture of their action item, and set is as their phone background so they'll be reminded tomorrow 😃.
+
+///
 
 ![Two drawings. Left: crude hearts and flowers scattered across the paper. Right: Multiple different scenes drawn on stickies and positioned across the paper.](images/End-result.jpg)
 
-<!-- markdownlint-disable-next-line MD053 -->
 [TRIZ]: https://www.liberatingstructures.com/6-making-space-with-triz/  
 [1-2-4-all]: https://www.liberatingstructures.com/1-1-2-4-all/

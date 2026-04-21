@@ -22,12 +22,12 @@ theme:
 
 markdown_extensions:
   - abbr
-  - admonition
   - def_list
   - footnotes
   - tables
   - pymdownx.blocks.tab:
       alternate_style: true
+  - pymdownx.blocks.admonition
   - toc:
       permalink: true
 

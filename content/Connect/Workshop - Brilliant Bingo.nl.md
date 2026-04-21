@@ -42,7 +42,7 @@ Zorg dat je het volgende hebt voorbereid:
 * ✅ Optioneel: Online "wheel of fortune" voor het selecteren van vragen
 ///
 
-!!! Tip "**Tips voor Toegankelijkheid**"
+/// Tip | **Tips voor Toegankelijkheid**
 
     /// tab | Physiek
       * Zorg voor een **rolstoeltoegankelijke ruimte**.
@@ -53,6 +53,7 @@ Zorg dat je het volgende hebt voorbereid:
       * Zorg voor **ondertiteling** in de meeting tool.
       * Deel de Bingo kaart **digitaal** voor gebruik met screen readers.
     ///
+///
 
 ---
 
@@ -62,9 +63,11 @@ Zorg dat je het volgende hebt voorbereid:
 
 Gebruik de [template] verderop om Bingo kaarten te maken.
 
-!!! Tip
+/// Tip
 
-    Pas de vakjes aan op basis van je doelgroep (bijv. "verzameling" vervangen door "favoriete influencer" voor een jong publiek).
+Pas de vakjes aan op basis van je doelgroep (bijv. "verzameling" vervangen door "favoriete influencer" voor een jong publiek).
+
+///
 
 /// tab | Physiek
  Gebruik Canva, Word, of Excel om kaarten te ontwerpen en print ze uit.
@@ -109,16 +112,26 @@ Jullie gaan op zoek naar mensen die iets **bijzonders** hebben meegemaakt of kun
 
 **Instructie:**
 
-1. Steek je hand omhoog als teken dat je vrij bent voor een gesprek.
-2. Zoek iemand anders met de hand omhoog.
-3. Stel elkaar een vraag over een van de vakjes op je kaart. Bijvoorbeeld: *'Wil je iets vertellen over je verzameling?'* of *'Wat is jouw superkracht?'*
-4. Luister goed naar het antwoord. Als je iets hoort dat je bijzonder vindt, zeg dan: *'Wat bijzonder!'* en schrijf de naam van de ander in het vakje.
-5. Wissel van rol: de ander stelt jou nu een vraag.
-6. Bedank elkaar en zoek een nieuwe partner.
-7. Spreek af wanneer men BINGO heeft:
+1. We spelen in rondes totdat de tijd op is:
     1. Enkele rij of kolom
     2. Dubbele rij en/of kolom
     3. Volle kaart
+2. Heb je bingo: roep dit dan hardop!
+3. Steek je hand omhoog als teken dat je vrij bent voor een gesprek.
+4. Zoek iemand anders met de hand omhoog.
+5. Stel elkaar een vraag over een van de vakjes op je kaart. Bijvoorbeeld: Jip vraagt: *'Wil je iets vertellen over je verzameling?'*. Janneke antwoord: *'Ik heb een verzameling paperclips'*.
+
+    /// Tip
+    Afhankelijk van het gezelschap kun je "Wat bijzonder" vervangen door "Wat interessant" of "Wat leuk".
+    ///
+
+6. Luister goed naar het antwoord en stel vervolgvragen. Als je iets hoort dat je bijzonder vindt, zeg dan: *'Wat bijzonder!'* en schrijf de naam van de ander in het betreffende vakje.
+7. Wissel van rol: de ander stelt jou nu een vraag. Bijvoorbeeld: Janneke vraagt: *'Wil je iets vertellen over je nutteloze skill?'*. Janneke antwoord: *'Ik kan heel goed een pauw nadoen'*.
+8. Bedank elkaar en zoek een nieuwe partner.
+
+/// Tip
+Afhankelijk van het gezelschap kun je "Wat bijzonder" vervangen door "Wat interessant" of "Wat leuk".
+///
 
 **Afspraken:**
 
@@ -126,22 +139,20 @@ Jullie gaan op zoek naar mensen die iets **bijzonders** hebben meegemaakt of kun
 * **Bijzonder is subjectief**: wat voor jou bijzonder is, hoeft dat voor een ander niet te zijn.
 * Laat je **verrassen** door de verhalen van anderen!"
 
-!!! Tip
-
-    Afhankelijk van het gezelschap kun je "Wat bijzonder" vervangen door "Wat interessant" of "Wat leuk".
-
 ---
 
 ### **3. Start de Activiteit (10-15 minuten)**
 
 Geef de deelnemers **10-15 minuten** om rond te lopen en gesprekken te voeren.
 
-!!! Tip "Tips voor de facilitator"
+/// Tip | Tips voor de facilitator
 
-    * Loop rond
-    * Help mensen om flow te houden: Niet te lang, maar ook niet te kort bij 1 persoon blijven.
-        * Gebruik een rondetimer (2 minuten)
-    * Gebruik een timer om de tijd in de gaten te houden.
+* Loop rond
+* Help mensen om flow te houden: Niet te lang, maar ook niet te kort bij 1 persoon blijven.
+    * Gebruik een rondetimer (2 minuten)
+* Gebruik een timer om de tijd in de gaten te houden.
+
+///
 
 ---
 
@@ -197,16 +208,19 @@ Deze template bingokaart is opgebouwd uit 4 items in 4 categorien. Deze categori
 | **Reisverhaal** | **Zelf maken** | **Nevenactiviteit** | **Bucket-list** |
 | **(Oud) collega** | **Verzameling** | **Bijbaantje** | **Superkracht** |
 
-!!! danger "Rondes"
+/// danger | Rondes
 
-    1. Eerste BINGO: Één rij of kolom vol
-    2. Dubbel BINGO: Twee rijen of kolommen
-    3. Volledig kaart: Alle 16 vakjes ingevuld
+1. Eerste BINGO: Één rij of kolom vol
+2. Dubbel BINGO: Twee rijen of kolommen
+3. Volledig kaart: Alle 16 vakjes ingevuld
 
-!!! Tip Tips
+///
+/// Tip | Tips
 
-    * Klaar ➡️ Hand omhoog!
-    * Lastige vraag ➡️ "Pas!"
+* Klaar ➡️ Hand omhoog!
+* Lastige vraag ➡️ "Pas!"
+
+///
 
 ---
 
