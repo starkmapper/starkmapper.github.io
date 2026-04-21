@@ -122,9 +122,17 @@ Currently, there are no automated tests for this project. However, you can manua
 ### Adding New Content
 
 1. Create a new Markdown file in the appropriate directory (e.g., `content/Developer Stances/`).
-2. Add metadata (if needed) at the top of the file, such as the title and date.
+1. Include language code in the name: i.e. `newfile.en.md` for English, and `newfile.nl.md` for Dutch.
+1. Include the language in the frontmatter:
+   * `original_language: nl` for Dutch
+   * `original_language: en` for English
+1. Include the `translation_status` in the frontmatter:
+   * `translation_status: source` for the original language
+   * `translation_status: needs-review` for the AI translated version
+   * `translation_status: completed` for the reviewed translation
 3. Write your content using Markdown syntax.
 4. Add images to the relevant `images` subdirectory and reference them in your content.
+5. Translate the content to the missing language: i.e. Dutch to English or English to Dutch.
 
 ### Build and Deployment
 
