@@ -3,6 +3,8 @@
 
 Een laagdrempelige verleiding tot bijzondere verbinding door diepgaande gesprekken
 
+![Avonturier met fakkel en zweep staat naast een pyramide, klaar om naar binnen te gaan.](images/header.nl.png)
+
 ## **Waarom het werkt**
 
 Dit spel daagt deelnemers uit om oprechte nieuwsgierigheid te tonen en anderen beter te leren kennen. Door te zoeken naar wat jij bijzonder vindt, help je anderen zich gewaardeerd te voelen. Het creëert een sfeer van veiligheid en verbinding, zelfs in grote groepen.
@@ -160,6 +162,11 @@ Bedank de deelnemers voor hun **openheid en nieuwsgierigheid**. Herinner ze eraa
 
 ## **Bingokaart**
 
+Kopieer onderstaande paragraaf naar je eigen ontwerp, of gebruik een kant-en klaare kaart:
+
+* [Kant en klaar](assets/bingocard-example.html)
+* [Lege template](images/bingocard-template-empty.png)
+
 Deze template bingokaart is opgebouwd uit 4 items in 4 categorien. Deze categorien zijn in de bingokaart door elkaar gegooid, zodat je elke categorie moet bevragen om bingo te krijgen, ook als je slechts 1 rij of kolom doet.
 
 | Lifestyle | Achtergrond | Talent | Professioneel |
@@ -185,6 +192,12 @@ Deze template bingokaart is opgebouwd uit 4 items in 4 categorien. Deze categori
 | **Cursus** | **Vakkennis** | **Uitlaatklep** | **Rolmodel** |
 | **Reisverhaal** | **Zelf maken** | **Nevenactiviteit** | **Bucket-list** |
 | **(Oud) collega** | **Verzameling** | **Bijbaantje** | **Superkracht** |
+
+!!! danger "Rondes"
+
+    1. Eerste BINGO Één rij of kolom vol
+    2. Dubbel BINGO Twee rijen of kolommen
+    3. Volledig kaart Alle 16 vakjes ingevuld
 
 !!! Tip Tips
 
