@@ -33,8 +33,10 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - git-authors
+#  - git-authors
+#  - macros
   - tags
+  - search
   - i18n:
       docs_structure: suffix
       fallback_to_default: true

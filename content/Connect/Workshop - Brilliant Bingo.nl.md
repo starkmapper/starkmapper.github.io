@@ -48,15 +48,15 @@ Zorg dat je het volgende hebt voorbereid:
 
 /// Tip | **Tips voor Toegankelijkheid**
 
-    /// tab | Physiek
-      * Zorg voor een **rolstoeltoegankelijke ruimte**.
-      * Plaats stoelen in paarsgewijs door ruimte voor mensen die niet lang kunnen staan.
-      * Voorzie **grote letters** op de Bingo kaarten voor slechtzienden.
-    ///
-    /// tab | Online
-      * Zorg voor **ondertiteling** in de meeting tool.
-      * Deel de Bingo kaart **digitaal** voor gebruik met screen readers.
-    ///
+/// tab | Physiek
+* Zorg voor een **rolstoeltoegankelijke ruimte**.
+* Plaats stoelen in paarsgewijs door ruimte voor mensen die niet lang kunnen staan.
+* Voorzie **grote letters** op de Bingo kaarten voor slechtzienden.
+///
+/// tab | Online
+* Zorg voor **ondertiteling** in de meeting tool.
+* Deel de Bingo kaart **digitaal** voor gebruik met screen readers.
+///
 ///
 
 ---
