@@ -7,7 +7,6 @@ This allows me to include them into my writing like so
 2. Paste all the reference links (`[LinkedIn]: https://www.linkedin.com/in/markstapper/`)
 3. Let Markdown do it's thing: ("Please message me on [LinkedIn].")
 
-
 [Mark Stapper's Blog]: https://starkmapper.github.io
 [Mark Stapper]: https://github.com/starkmapper
 [CC BY-SA 4.0]: https://creativecommons.org/licenses/by-sa/4.0/
